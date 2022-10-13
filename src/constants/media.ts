@@ -1,0 +1,1 @@
+export const MAX_NOMINATION = 5
